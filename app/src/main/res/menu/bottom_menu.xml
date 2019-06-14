@@ -12,5 +12,5 @@
             android:title="Stop Watch"/>
     <item
             android:id="@+id/mnu_timmer"
-            android:title="Timmer"/>
+            android:title="Timer"/>
 </menu>
