@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/mnu_alarm"
+            android:title="Alarm"/>
+    <item
+        android:id="@+id/mnu_globalclock"
+        android:title="World Clock"/>
+    <item
+            android:id="@+id/mnu_stopwatch"
+            android:title="Stop Watch"/>
+    <item
+            android:id="@+id/mnu_timmer"
+            android:title="Timmer"/>
+</menu>
